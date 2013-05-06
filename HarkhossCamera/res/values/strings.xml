@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Harkhoss Cam</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="capture">Capture</string>
+	<string name="option">Options</string>
+	<string name="flash">Flash</string>
+	<string name="anti_banding">Anti-Banding</string>
+	<string name="coloreffects">ColorEffects</string>
+	<string name="none">None</string>
+	<string name="blackwhite">Black and White</string>
+	<string name="negative">Negative</string>
+	<string name="sepia">Sepia</string>
+	<string name="aqua">Aqua</string>
+	<string name="scene">Scene</string>
+	<string name="night">Night</string>
+	<string name="candlelight">Candlelight</string>
+	<string name="snow">Snow</string>
+	<string name="beach">Beach</string>
+	<string name="focus">Focus</string>
+	<string name="auto">Auto</string>
+	<string name="fixed">Fixed</string>
+	<string name="macro">Macro</string>
+	<string name="infinity">Infinity</string>
+	<string name="whitebalance">White Balance</string>
+	<string name="daylight">Daylight</string>
+	<string name="cloudy">Cloudy</string>
+	<string name="incandescent">Incandescent</string>
+	<string name="fluorescent">Fluorescent</string>
+	<string name="size">Size</string>
+	<string name="l640_480">640 x 480</string>
+	<string name="l800_480">800 x 480</string>
+	<string name="l2048_1232">2048 x 1232</string>
+	<string name="l2048_1536">2048 x 1536</string>
+	<string name="format">Format</string>
+	<string name="jpg">Jpg</string>
+	<string name="png">Png</string>
+	
+	
+</resources>

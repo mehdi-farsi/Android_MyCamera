@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <FrameLayout
+    android:id="@+id/camera_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="0dip"
+    android:layout_weight="1"/>
+    
+    <LinearLayout 
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_xml">
+        <ImageButton
+            android:id="@+id/button_capture"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/icon_photo"
+            android:contentDescription="@string/capture" />
+    </LinearLayout>
+	
+</LinearLayout>
